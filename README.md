@@ -7,3 +7,6 @@ This is an experimental app showcasing an animated particle canvas using Jetpack
 - **Animated Particles**: Displays a canvas with particles that change color and position over time.
 - **Interactive Gestures**: Users can interact with the particles by tapping and dragging on the canvas. These gestures are handled using custom Modifier extensions for `detectDragGestures` and `detectTapGestures`.
 - **Jetpack Compose**: Built entirely with Jetpack Compose.
+
+## Demo
+![demo](readme/demo.mp4)
