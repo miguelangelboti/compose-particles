@@ -9,4 +9,4 @@ This is an experimental app showcasing an animated particle canvas using Jetpack
 - **Jetpack Compose**: Built entirely with Jetpack Compose.
 
 ## Demo
-![demo](readme/demo.mp4)
+<img src="https://github.com/user-attachments/assets/85e70bb1-01a5-4db6-bd10-d0afd970d62c" height="720"/>
